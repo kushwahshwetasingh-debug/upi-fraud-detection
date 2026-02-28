@@ -42,8 +42,7 @@ We built a real-time fraud risk scoring system that:
 **Database:** SQLite  
 **Machine Learning:** Scikit-learn  
 **Data Processing:** Pandas, NumPy  
-**Visualization:** Matplotlib  
-
+ 
 ---
 
 ## Machine Learning Model
