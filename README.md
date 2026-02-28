@@ -89,15 +89,20 @@ Database (SQLite)
 
 ## How to Run Backend
 Install dependencies
+
 pip install -r requirements.txt
+
 Run server
+
 uvicorn main:app --reload
 
 ## How to Run Frontend
 Install packages
+
 npm install
 
 Run frontend
+
 npm run dev
 
 
